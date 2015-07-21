@@ -5,3 +5,8 @@ Observaciones Casos de Uso:
 Observaciones de segundo avance
 ---------------------------------------------------------------------------
 - no entrega avance
+
+Observaciones tercer avance
+-----------------------------------------------------
+- tienes muy pocos commits y los que hay no hacen cambios sgnificativos
+- no olvides sicnronizar con tus colaboradores tambien - merge
